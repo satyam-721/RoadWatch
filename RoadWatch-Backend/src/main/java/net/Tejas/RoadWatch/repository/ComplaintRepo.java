@@ -1,4 +1,4 @@
-package net.Tejas.roadwatch.repo;
+package net.Tejas.roadwatch.repository;
 
 import net.Tejas.roadwatch.model.Complaint;
 import org.springframework.data.jpa.repository.JpaRepository;
