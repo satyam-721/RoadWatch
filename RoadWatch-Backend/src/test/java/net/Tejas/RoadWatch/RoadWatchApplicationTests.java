@@ -1,4 +1,4 @@
-package net.Tejas.RoadWatch;
+package net.Tejas.roadwatch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

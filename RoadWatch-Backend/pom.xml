@@ -8,8 +8,8 @@
 		<version>4.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.Tejas</groupId>
-	<artifactId>RoadWatch</artifactId>
+	<groupId>net.tejas</groupId>
+	<artifactId>roadwatch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>

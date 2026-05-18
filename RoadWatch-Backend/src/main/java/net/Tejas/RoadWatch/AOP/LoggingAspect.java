@@ -1,4 +1,4 @@
-package net.Tejas.RoadWatch.AOP;
+package net.Tejas.roadwatch.aop;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.slf4j.Logger;

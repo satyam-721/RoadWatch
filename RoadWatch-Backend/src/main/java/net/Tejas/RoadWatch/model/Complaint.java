@@ -1,4 +1,4 @@
-package net.Tejas.RoadWatch.Model;
+package net.Tejas.roadwatch.model;
 
 import jakarta.persistence.Entity;
 import lombok.Builder;
@@ -11,6 +11,6 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @Builder
-public class Complains {
+public class Complaint {
 
 }

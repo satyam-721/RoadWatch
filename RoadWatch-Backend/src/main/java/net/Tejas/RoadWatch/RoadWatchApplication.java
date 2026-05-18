@@ -1,4 +1,4 @@
-package net.Tejas.RoadWatch;
+package net.Tejas.roadwatch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
